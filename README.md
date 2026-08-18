@@ -173,23 +173,6 @@ ggplot(top_categories_per_month, aes(x = month_name, y = total_sales, fill = pro
 
 ---
 
-## 📁 Struktur Repository (disarankan)
-
-```
-├── data/
-│   └── hasil_dataCleaning.csv
-├── scripts/
-│   └── analysis.R
-├── assets/
-│   ├── top_5_products.png
-│   ├── transactions_by_day.png
-│   ├── sales_trend_by_hour.png
-│   └── top_categories_by_month.png
-└── README.md
-```
-
----
-
 ## 📌 Insight Utama untuk Bisnis
 
 - **Produksi**: Fokuskan stok pada 5 produk terlaris seperti *Old Time Diner Blend* dan *Jamaican Coffee River* untuk menghindari kehabisan stok.
