@@ -1,6 +1,6 @@
 # ☕ Coffee Shop Sales Analysis & Visualization
 
-Proyek ini merupakan bagian dari mini course **"Mastering Data Visualization with Tableau"**, yang bertujuan untuk membantu sebuah coffee shop memantau penjualan harian mereka guna mendukung perencanaan produksi, inventori, dan strategi pemasaran. Analisis dilakukan menggunakan **R** (`dplyr`, `ggplot2`) untuk mengolah data dan membuat visualisasi yang menjawab pertanyaan bisnis utama.
+Proyek ini merupakan bagian dari mini course **"Mastering Data Visualization with Revou"**, yang bertujuan untuk membantu sebuah coffee shop memantau penjualan harian mereka guna mendukung perencanaan produksi, inventori, dan strategi pemasaran. Analisis dilakukan menggunakan **R** (`dplyr`, `ggplot2`) untuk mengolah data dan membuat visualisasi yang menjawab pertanyaan bisnis utama.
 
 ---
 
